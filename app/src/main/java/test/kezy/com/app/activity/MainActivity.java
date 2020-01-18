@@ -1,8 +1,9 @@
-package test.kezy.com.app;
+package test.kezy.com.app.activity;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+import test.kezy.com.app.R;
 
 public class MainActivity extends AppCompatActivity {
 
